@@ -13,3 +13,5 @@ Simple plugin used to selectively count pages on website
 * $cats -- собственно, перечень разделов
 * $subs (TRUE) -- параметр учета вложенных подразделов;
 * $decl (pages) -- имя lang-переменной для использования функции cot_declension
+
+Установка плагина стандартная, для работы требуется наличие установленного модуля Page и плагина Pagelist
