@@ -15,7 +15,9 @@ Lock_guests=12345AW
 Auth_members=R
 Lock_members=12345AW
 Requires_modules=page
-Requires_plugins=pagelist
+Requires_plugins=cotlib
+Recommends_modules=
+Recommends_plugins=
 [END_COT_EXT]
 [BEGIN_COT_EXT_CONFIG]
 [END_COT_EXT_CONFIG]
